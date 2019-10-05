@@ -1,0 +1,148 @@
+file data/askscience-5.json
+number of things 5
+
+first thing id 85kaz5
+first thing title Why do we use pillows now when we sleep? Did we need this during the prehistoric/ancient age? What changed?
+first thing subreddit askscience
+first thing score 18566
+first thing created 1521502020
+
+sort by id id 85hk2p
+sort by id title How do people colorize old photos?
+sort by id subreddit askscience
+sort by id score 2646
+sort by id created 1521471308
+
+sort by title id 85hk2p
+sort by title title How do people colorize old photos?
+sort by title subreddit askscience
+sort by title score 2646
+sort by title created 1521471308
+
+sort by subreddit id 85kaz5
+sort by subreddit title Why do we use pillows now when we sleep? Did we need this during the prehistoric/ancient age? What changed?
+sort by subreddit subreddit askscience
+sort by subreddit score 18566
+sort by subreddit created 1521502020
+
+sort by score id 85mykv
+sort by score title How many light years across is the sun’s magnetic field?
+sort by score subreddit askscience
+sort by score score 17
+sort by score created 1521521589
+
+sort by created id 85hk2p
+sort by created title How do people colorize old photos?
+sort by created subreddit askscience
+sort by created score 2646
+sort by created created 1521471308
+
+indexed word, occurrence counts, no. associated records, [ associated record ids ]
+the, 7, 3, [ 85kp0d 85kaz5 85mykv ]
+oil, 4, 1, [ 85kp0d ]
+How, 3, 3, [ 85hk2p 85m2p9 85mykv ]
+a, 3, 2, [ 85kp0d 85hk2p ]
+to, 3, 1, [ 85kp0d ]
+empty, 3, 1, [ 85kp0d ]
+we, 3, 1, [ 85kaz5 ]
+of, 3, 2, [ 85kp0d 85m2p9 ]
+it, 2, 1, [ 85kp0d ]
+I, 2, 1, [ 85hk2p ]
+are, 2, 1, [ 85kp0d ]
+does, 2, 2, [ 85kp0d 85m2p9 ]
+where, 2, 1, [ 85kp0d ]
+be?, 2, 1, [ 85kp0d ]
+do, 2, 2, [ 85hk2p 85kaz5 ]
+used, 2, 1, [ 85kp0d ]
+has, 2, 2, [ 85kp0d 85hk2p ]
+this, 2, 2, [ 85hk2p 85kaz5 ]
+What, 2, 2, [ 85kp0d 85kaz5 ]
+and, 2, 1, [ 85hk2p ]
+now, 2, 2, [ 85kp0d 85kaz5 ]
+nuclear, 2, 1, [ 85m2p9 ]
+thought, 1, 1, [ 85hk2p ]
+about, 1, 1, [ 85hk2p ]
+during, 1, 1, [ 85kaz5 ]
+I've, 1, 1, [ 85hk2p ]
+rid, 1, 1, [ 85m2p9 ]
+when, 1, 1, [ 85kaz5 ]
+age?, 1, 1, [ 85kaz5 ]
+years, 1, 1, [ 85mykv ]
+positively, 1, 1, [ 85hk2p ]
+sleep?, 1, 1, [ 85kaz5 ]
+magnetic, 1, 1, [ 85mykv ]
+if, 1, 1, [ 85hk2p ]
+you, 1, 1, [ 85hk2p ]
+will., 1, 1, [ 85hk2p ]
+large, 1, 1, [ 85kp0d ]
+in, 1, 1, [ 85kp0d ]
+old, 1, 1, [ 85hk2p ]
+dirt?, 1, 1, [ 85kp0d ]
+is, 1, 1, [ 85mykv ]
+now., 1, 1, [ 85hk2p ]
+left, 1, 1, [ 85hk2p ]
+underground, 1, 1, [ 85kp0d ]
+light, 1, 1, [ 85mykv ]
+caverns, 1, 1, [ 85kp0d ]
+much, 1, 1, [ 85kp0d ]
+sun’s, 1, 1, [ 85mykv ]
+Is, 1, 1, [ 85kp0d ]
+It, 1, 1, [ 85hk2p ]
+drilled, 1, 1, [ 85kp0d ]
+air, 1, 1, [ 85kp0d ]
+out, 1, 1, [ 85kp0d ]
+lot, 1, 1, [ 85kp0d ]
+across, 1, 1, [ 85mykv ]
+pockets, 1, 1, [ 85kp0d ]
+get, 1, 1, [ 85m2p9 ]
+plants?, 1, 1, [ 85m2p9 ]
+photos?, 1, 1, [ 85hk2p ]
+power, 1, 1, [ 85m2p9 ]
+so, 1, 1, [ 85kp0d ]
+Did, 1, 1, [ 85kaz5 ]
+more, 1, 1, [ 85m2p9 ]
+black, 1, 1, [ 85hk2p ]
+drilling, 1, 1, [ 85kp0d ]
+changed?, 1, 1, [ 85kaz5 ]
+many, 1, 1, [ 85mykv ]
+people, 1, 1, [ 85hk2p ]
+stumped., 1, 1, [ 85hk2p ]
+picture, 1, 1, [ 85hk2p ]
+field?, 1, 1, [ 85mykv ]
+prehistoric/ancient, 1, 1, [ 85kaz5 ]
+use, 1, 1, [ 85kaz5 ]
+space, 1, 1, [ 85kp0d ]
+colorize, 1, 1, [ 85hk2p ]
+post, 1, 1, [ 85hk2p ]
+white, 1, 1, [ 85hk2p ]
+late, 1, 1, [ 85kp0d ]
+than, 1, 1, [ 85m2p9 ]
+me, 1, 1, [ 85hk2p ]
+Humanity, 1, 1, [ 85kp0d ]
+from, 1, 1, [ 85m2p9 ]
+all, 1, 1, [ 85kp0d ]
+waste, 1, 1, [ 85m2p9 ]
+need, 1, 1, [ 85kaz5 ]
+Why, 1, 1, [ 85kaz5 ]
+fill, 1, 1, [ 85kp0d ]
+pillows, 1, 1, [ 85kaz5 ]
+60, 1, 1, [ 85m2p9 ]
+since, 1, 1, [ 85kp0d ]
+not, 1, 1, [ 85hk2p ]
+Since, 1, 1, [ 85kp0d ]
+France, 1, 1, [ 85m2p9 ]
+just, 1, 1, [ 85kp0d ]
+on, 1, 1, [ 85hk2p ]
+colorizing, 1, 1, [ 85hk2p ]
+Baffled, 1, 1, [ 85hk2p ]
+or, 1, 1, [ 85kp0d ]
+saw, 1, 1, [ 85hk2p ]
+realized, 1, 1, [ 85hk2p ]
+with, 1, 1, [ 85kp0d ]
+someone, 1, 1, [ 85hk2p ]
+there, 1, 1, [ 85kp0d ]
+ground,, 1, 1, [ 85kp0d ]
+until, 1, 1, [ 85hk2p ]
+humans, 1, 1, [ 85kp0d ]
+happens, 1, 1, [ 85kp0d ]
+1800’s., 1, 1, [ 85kp0d ]

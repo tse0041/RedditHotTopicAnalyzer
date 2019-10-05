@@ -1,0 +1,45 @@
+file data/fake-1.json
+number of things 1
+
+first thing id 85osel
+first thing title ONE TWO TWO THREE THREE THREE
+first thing subreddit news
+first thing score 63130
+first thing created 1521536525
+
+sort by id id 85osel
+sort by id title ONE TWO TWO THREE THREE THREE
+sort by id subreddit news
+sort by id score 63130
+sort by id created 1521536525
+
+sort by title id 85osel
+sort by title title ONE TWO TWO THREE THREE THREE
+sort by title subreddit news
+sort by title score 63130
+sort by title created 1521536525
+
+sort by subreddit id 85osel
+sort by subreddit title ONE TWO TWO THREE THREE THREE
+sort by subreddit subreddit news
+sort by subreddit score 63130
+sort by subreddit created 1521536525
+
+sort by score id 85osel
+sort by score title ONE TWO TWO THREE THREE THREE
+sort by score subreddit news
+sort by score score 63130
+sort by score created 1521536525
+
+sort by created id 85osel
+sort by created title ONE TWO TWO THREE THREE THREE
+sort by created subreddit news
+sort by created score 63130
+sort by created created 1521536525
+
+indexed word, occurrence counts, no. associated records, [ associated record ids ]
+FIVE, 5, 1, [ 85osel ]
+FOUR, 4, 1, [ 85osel ]
+THREE, 3, 1, [ 85osel ]
+TWO, 2, 1, [ 85osel ]
+ONE, 1, 1, [ 85osel ]

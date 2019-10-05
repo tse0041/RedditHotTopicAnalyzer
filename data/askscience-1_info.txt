@@ -1,0 +1,57 @@
+file data/askscience-1.json
+number of things 1
+
+first thing id 85kaz5
+first thing title Why do we use pillows now when we sleep? Did we need this during the prehistoric/ancient age? What changed?
+first thing subreddit askscience
+first thing score 18563
+first thing created 1521502020
+
+sort by id id 85kaz5
+sort by id title Why do we use pillows now when we sleep? Did we need this during the prehistoric/ancient age? What changed?
+sort by id subreddit askscience
+sort by id score 18563
+sort by id created 1521502020
+
+sort by title id 85kaz5
+sort by title title Why do we use pillows now when we sleep? Did we need this during the prehistoric/ancient age? What changed?
+sort by title subreddit askscience
+sort by title score 18563
+sort by title created 1521502020
+
+sort by subreddit id 85kaz5
+sort by subreddit title Why do we use pillows now when we sleep? Did we need this during the prehistoric/ancient age? What changed?
+sort by subreddit subreddit askscience
+sort by subreddit score 18563
+sort by subreddit created 1521502020
+
+sort by score id 85kaz5
+sort by score title Why do we use pillows now when we sleep? Did we need this during the prehistoric/ancient age? What changed?
+sort by score subreddit askscience
+sort by score score 18563
+sort by score created 1521502020
+
+sort by created id 85kaz5
+sort by created title Why do we use pillows now when we sleep? Did we need this during the prehistoric/ancient age? What changed?
+sort by created subreddit askscience
+sort by created score 18563
+sort by created created 1521502020
+
+indexed word, occurrence counts, no. associated records, [ associated record ids ]
+we, 3, 1, [ 85kaz5 ]
+prehistoric/ancient, 1, 1, [ 85kaz5 ]
+need, 1, 1, [ 85kaz5 ]
+use, 1, 1, [ 85kaz5 ]
+this, 1, 1, [ 85kaz5 ]
+Why, 1, 1, [ 85kaz5 ]
+do, 1, 1, [ 85kaz5 ]
+during, 1, 1, [ 85kaz5 ]
+changed?, 1, 1, [ 85kaz5 ]
+when, 1, 1, [ 85kaz5 ]
+age?, 1, 1, [ 85kaz5 ]
+What, 1, 1, [ 85kaz5 ]
+the, 1, 1, [ 85kaz5 ]
+sleep?, 1, 1, [ 85kaz5 ]
+now, 1, 1, [ 85kaz5 ]
+pillows, 1, 1, [ 85kaz5 ]
+Did, 1, 1, [ 85kaz5 ]

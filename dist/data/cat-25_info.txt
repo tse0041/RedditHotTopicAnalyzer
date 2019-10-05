@@ -1,0 +1,41 @@
+file data/cat-25.json
+number of things 25
+
+first thing id 86cz4v
+first thing title Cat.
+first thing subreddit CatsStandingUp
+first thing score 295
+first thing created 1521765957
+
+sort by id id 85uge1
+sort by id title Cat.
+sort by id subreddit CatsStandingUp
+sort by id score 86
+sort by id created 1521594866
+
+sort by title id 86cz4v
+sort by title title Cat.
+sort by title subreddit CatsStandingUp
+sort by title score 295
+sort by title created 1521765957
+
+sort by subreddit id 86cz4v
+sort by subreddit title Cat.
+sort by subreddit subreddit CatsStandingUp
+sort by subreddit score 295
+sort by subreddit created 1521765957
+
+sort by score id 868ojx
+sort by score title Cat.
+sort by score subreddit CatsStandingUp
+sort by score score 3
+sort by score created 1521719409
+
+sort by created id 85uge1
+sort by created title Cat.
+sort by created subreddit CatsStandingUp
+sort by created score 86
+sort by created created 1521594866
+
+indexed word, occurrence counts, no. associated records, [ associated record ids ]
+Cat., 25, 25, [ 8601v0 85wb8w 85zsky 85x818 85urmk 868ojx 85ylyp 867ogn 85wgea 86e4w0 868kxb 85xqua 85yugr 86b404 865lgo 862d4r 86cz4v 862g11 866187 85uge1 869f8x 85xn70 85wia4 85zw0l 86duw4 ]
